@@ -1,0 +1,445 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Luis",
+      "surnames": "Domingo",
+      "title": "Python developer | Security analyst | Data Analyst | Project Manager",
+      "description": "Tengo certificaciones en programación en Python en Google y Cisco y cursé la preparación para el PCAP en la academia Tokio. poseo habilidades en **C**, **Django**, **Linux**, **QA testing (Unit Test)**, **Regex**, **Bash Scripting**, **Git** y **Github**.\n\nPreviamente estudié en la Universidad Pontificia de Comillas (ICAI-ICADE) algunos cursos de Ingeniería Informática de Gestión por lo que poseo conocimientos solidos en lógica de programación entre otros.\nTambién tengo un nivel alto de inglés (B2) tanto en lectura como en conversación y escritura.\n\nHe dirigido mi propia empresa y casi toda mi trayectoria profesional la he transitado como profesional autónomo por lo que tengo una visión muy amplia del trabajo y de los negocios.\n\nMe interesa mucho aprender de otras personas y comprometerme en nuevos proyectos. Soy una persona inquieta, curiosa, en constante formación y con predisposición al pensamiento crítico y lateral. \n\nEn el link a continuación puedes dirigirte a mi Google site donde podrás ver mi información\n\n[https://sites.google.com/view/luis-j-domingo/inicio](https://sites.google.com/view/luis-j-domingo/inicio)",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/f18e9a35-a03e-434b-a220-f67e141e788f_linkedin-photo-47354.linkedin-photo-47354",
+        "alt": "24/06/06/f18e9a35-a03e-434b-a220-f67e141e788f_linkedin-photo-47354.linkedin-photo-47354"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/luis-domingo-1a9a75217"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/LuisJDomingo"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance (Self employed)"
+        },
+        "roles": [
+          {
+            "name": "Analista de datos",
+            "startDate": "2023-09-01",
+            "challenges": [
+              {
+                "description": "Skills: Análisis de datos estadísticos · Tableau · Gestión de datos · Python · Presentaciones · Programación orientada a objetos (POO) · Visualización de datos · Modelos predictivos · Analítica de datos · Microsoft Excel · Ciencia de datos · Analítica · Jinja · Introducción de datos · Análisis de datos"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Martin",
+          "description": "**Chatbot** para la asistencia virtual de profesionales.\n**Martin* aprende de los datos personales del propietario del software y responde preguntas de terceros en base a los conocimientos ***aprendidos***.\nEn desarrollo. \ngithub: https://github.com/LuisJDomingo/Martin\n",
+          "URL": "https://github.com/LuisJDomingo/Martin"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-07-01",
+            "competences": [
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQLAlchemy",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "translator_voice_to_voice ",
+          "description": "**Traductor de audio**.\nEl programa recibe un texto en audio en un idioma concreto y lo devuelve traducido en el idioma seleccionado.\n\n  ",
+          "URL": "https://github.com/LuisJDomingo/translator_voice_to_voice/tree/main"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-03-01",
+            "competences": [
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jinja",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingeniería Informática de gestión, Ingeniería informática",
+        "startDate": "1997-10-01",
+        "institution": {
+          "name": "Universidad Pontificia Comillas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/f045029d-af53-4060-9275-e490694f4044_linkedin-photo-47354.linkedin-photo-47354",
+            "alt": "24/06/06/f045029d-af53-4060-9275-e490694f4044_linkedin-photo-47354.linkedin-photo-47354"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Introduction to Git and GitHub",
+        "startDate": "2024-10-01",
+        "institution": {
+          "name": "Google",
+          "description": "Understand why version control is a fundamental tool for coding and collaboration\n\nInstall and run Git on your local machine \n\nUse and interact with GitHub \n\nCollaborate with others through remote repositories",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/29/57708e65-6837-406b-a258-6942bb72d8ff_introduction-to-git-.jpeg",
+            "alt": "Introduction to Git and GitHub.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programación en Python PCAP",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Tokio School",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/3ff5cf2e-ccb3-4d4d-9157-e60b62732c04_linkedin-photo-47354.linkedin-photo-47354",
+            "alt": "24/06/06/3ff5cf2e-ccb3-4d4d-9157-e60b62732c04_linkedin-photo-47354.linkedin-photo-47354"
+          }
+        },
+        "finishDate": "2024-01-31"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Python",
+        "startDate": "2023-12-01",
+        "institution": {
+          "name": "Cisco",
+          "description": "Fundamentos de la programación en Python",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/29/c6d9089d-c730-483a-b8e9-6a0489fb445d_python-1-cisco.png",
+            "alt": "python 1 cisco.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Python--- Cisco",
+        "startDate": "2024-01-01",
+        "institution": {
+          "name": "Cisco",
+          "description": "Cisco, en colaboración con **OpenEDG Python Institute**, verifica que el ganador de esta insignia haya completado con éxito el curso Python Essentials 2 y haya obtenido las credenciales de nivel de estudiante. Los ganadores tienen conocimientos y habilidades en aspectos intermedios de la programación de Python, incluidos módulos, paquetes, excepciones, procesamiento de archivos, así como técnicas generales de codificación y programación orientada a objetos (OOP), y prepara al alumno para la certificación de Asociado Certificado en Programación Python PCAP –.co",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/29/f453b394-1f3d-4275-a0d1-0dd4337dcf62_python-2-cisco.png",
+            "alt": "python 2 cisco.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Tools of trade: Linux and Sql",
+        "startDate": "2024-10-01",
+        "institution": {
+          "name": "Google",
+          "description": "Explain the relationship between operating systems, applications, and hardware\n\nCompare a graphical user interface to a command line interface\n\nNavigate and manage the file system using Linux commands via the Bash shell\n\nUse SQL to retrieve information from a database",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/29/7b3a74b2-c15c-4c09-b18f-83835c60f8fd_linux-y-sql-google.jpeg",
+            "alt": "linux y sql google.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Using Python to Interact with the Operating System",
+        "startDate": "2024-10-01",
+        "institution": {
+          "name": "Google",
+          "description": "etup, configure, and use your own developer environment in Python\n\nManipulate files and processes running on the Operating System using Python\n\nUnderstand and use regular expressions (regex), a powerful tool for processing text files\n\nKnow when to choose Bash or Python, and create small scripts using Bash",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/29/4cd55dd9-8b67-4c61-a2c3-06fd7b33ac74_using-python-to-inte.jpeg",
+            "alt": "Using Python to Interact with the Operating System.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/luis-domingo-1a9a75217",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/LuisJDomingo",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Adobe Lightroom",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        },
+        {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Product Manager",
+        "Security Engineer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Excel",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "¿Trabajo ideal? diría que uno en el que este rodeado de personas top en todos los sentidos y un lugar en el que poder aprender constantemente y crecer.\nUn proyecto en el que poder ser **creativo**",
+    "projects": [
+      {
+        "name": "Martin"
+      },
+      {
+        "name": "translator_voice_to_voice "
+      }
+    ]
+  }
+}
