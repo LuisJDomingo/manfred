@@ -394,17 +394,15 @@
           "type": "technology"
         },
         {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
         {
           "name": "Unity3D",
-          "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "MongoDB",
           "type": "technology"
         }
       ],
