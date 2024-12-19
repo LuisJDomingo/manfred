@@ -410,6 +410,10 @@
           "type": "technology"
         },
         {
+          "name": "SQLAlchemy",
+          "type": "technology"
+        },
+        {
           "name": "Unity3D",
           "type": "technology"
         }
