@@ -404,6 +404,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "CouchDB",
+          "type": "technology"
+        },
+        {
           "name": "MongoDB",
           "type": "technology"
         }
