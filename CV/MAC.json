@@ -406,6 +406,10 @@
           "type": "technology"
         },
         {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
           "name": "Unity3D",
           "type": "technology"
         }
