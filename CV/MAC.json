@@ -37,6 +37,54 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Software developer",
+            "startDate": "2024-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicativos con Python. Manejo de bases de datos SQL y NoSQL"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "CouchDB",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLAlchemy",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
