@@ -390,6 +390,10 @@
           "type": "technology"
         },
         {
+          "name": "JSON",
+          "type": "technology"
+        },
+        {
           "name": "Linux",
           "type": "technology"
         },
