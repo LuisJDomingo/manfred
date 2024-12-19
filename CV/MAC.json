@@ -402,6 +402,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Full-stack Developer",
