@@ -133,6 +133,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "CouchDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Django",
           "type": "technology"
         }
@@ -163,6 +169,18 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyCharm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -176,6 +194,18 @@
       {
         "skill": {
           "name": "Tableau",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -448,15 +478,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Django",
+        "name": "Git",
         "type": "technology"
       },
       {
-        "name": "Microsoft Excel",
+        "name": "MongoDB",
         "type": "technology"
       },
       {
         "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
         "type": "technology"
       }
     ],
