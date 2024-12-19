@@ -37,24 +37,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Freelance (Self employed)"
-        },
-        "roles": [
-          {
-            "name": "Analista de datos",
-            "startDate": "2023-09-01",
-            "challenges": [
-              {
-                "description": "Skills: Análisis de datos estadísticos · Tableau · Gestión de datos · Python · Presentaciones · Programación orientada a objetos (POO) · Visualización de datos · Modelos predictivos · Analítica de datos · Microsoft Excel · Ciencia de datos · Analítica · Jinja · Introducción de datos · Análisis de datos"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
