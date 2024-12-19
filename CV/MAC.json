@@ -212,6 +212,32 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Google Cibersecurity Analyst",
+        "startDate": "2024-12-01",
+        "institution": {
+          "name": "Google",
+          "description": "Como analista de ciberseguridad certificado por **Google**, protejo sistemas, redes y datos sensibles frente a amenazas digitales. Utilizo herramientas avanzadas para identificar, analizar y mitigar riesgos, garantizando la seguridad de la información y el cumplimiento de normativas. Mi enfoque combina análisis técnico, respuesta proactiva y mejora continua para proteger tanto a organizaciones como a sus usuarios en un entorno en constante evolución.\nHabiendo obtenido el **Certificado de Ciberseguridad de Google** he completado ocho cursos, desarrollados por Google, que incluyen evaluaciones prácticas basadas en la práctica y están diseñados para prepararlos para roles de nivel inicial en ciberseguridad. Son competentes en herramientas Python, Linux, SQL, gestión de eventos e información de seguridad (SIEM) y sistemas de detección de intrusiones (IDS) de nivel principiante. Saben cómo identificar riesgos, amenazas y vulnerabilidades comunes de ciberseguridad, así como las técnicas para mitigarlos.\nAquellos que obtienen el Certificado de Ciberseguridad de Google han completado ocho cursos, desarrollados por Google, que incluyen evaluaciones prácticas basadas en la práctica y están diseñados para prepararlos para roles de nivel inicial en ciberseguridad. Son competentes en herramientas Python, Linux, SQL, gestión de eventos e información de seguridad (SIEM) y sistemas de detección de intrusiones (IDS) de nivel principiante. Saben cómo identificar riesgos, amenazas y vulnerabilidades comunes de ciberseguridad, así como las técnicas para mitigarlos.\n\n###HABILIDADES\n\n- Autenticación\n- Evaluación de ciberseguridad\n- Aseguramiento de la información\n- Seguridad de información\n- Sistemas de información\n- Herramientas de detección de intrusiones e IDS\n- Linux\n- Herramientas de analizador de red (sniffing)\n- Seguridad de la red\n- Marco de ciberseguridad del NIST\n- Python\n- Evaluación de riesgos\n- Marco de gestión de riesgos\n- Información de seguridad y gestión de eventos (SIEM) herramientas\n- SQL\n- Análisis de amenazas\n- Evaluación de vulnerabilidad\n",
+          "URL": "https://www.credly.com/badges/c2bb9192-7529-4ecc-a22e-ac3aa307aa92/public_url",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/19/8a439f13-9f01-4d82-8274-4d3e87aa0def_google-cybersecurity.png",
+            "alt": "google-cybersecurity-certificate.png"
+          }
+        },
+        "finishDate": "2024-12-01",
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniería Informática de gestión, Ingeniería informática",
