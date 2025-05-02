@@ -268,6 +268,16 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "IFCD0063",
+        "startDate": "2025-04-01",
+        "institution": {
+          "name": "Dabo formacion",
+          "description": "Aplicaciones industriales del aprendizaje automático y la inteligencia artificial"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniería Informática de gestión, Ingeniería informática",
